@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"test-project/foo"
+	"github.com/foolusion/test-project/foo"
 )
 
 func main() {
