@@ -7,4 +7,5 @@ import (
 
 func main() {
 	fmt.Println(foo.String)
+	fmt.Println(foo.String)
 }
